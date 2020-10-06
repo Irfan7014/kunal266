@@ -14,7 +14,7 @@ Vellore Institute of Technology,Chennai
 I'm a fast learner looking for interesting career opportunities in 📈 Data Science  
 and Web as a full-stack developer. I am awaiting a job with a decent salary 
 and more importantly, a chance to build up my career and skills. 
-I am looking for growth.,
+I am looking for growth.
  ```
 
 ```
